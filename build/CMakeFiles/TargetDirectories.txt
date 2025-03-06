@@ -1,0 +1,3 @@
+/home/ubuntu/aws_gp/build/CMakeFiles/PRINT.dir
+/home/ubuntu/aws_gp/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/aws_gp/build/CMakeFiles/rebuild_cache.dir
